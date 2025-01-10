@@ -19,3 +19,12 @@ The top category is coffee and the product is Barista Espresso across the board.
 
 # Data Story - I have noticed that the bottom products for all the stores include some flavours and other products like coffee beans. Also, the merchandise clothing for Astoria is way less as compared to other stores. We shall provide some discount offers to this store to increase sales. Or else completely remove it from displaying at this store and keep it available on order only. This shall help us reduce costs of operations.
 
+
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/f9859ecd-3b59-48a5-826c-bf39e6797457)
+
+
