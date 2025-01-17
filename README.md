@@ -25,6 +25,8 @@ The top category is coffee and the product is Barista Espresso across the board.
 
 
 
-![image](https://github.com/user-attachments/assets/f9859ecd-3b59-48a5-826c-bf39e6797457)
+
+
+https://github.com/georgerohanjoseph/Coffee-Sales-Dashboard/blob/main/Dashboard/coffee%20shop%20dash1.png?raw=true
 
 
